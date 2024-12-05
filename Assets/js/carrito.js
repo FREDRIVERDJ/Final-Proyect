@@ -5,42 +5,42 @@ document.addEventListener('DOMContentLoaded', () => {
     const baseDeDatos = [
         {
             id: 1,
-            nombre: 'Sombrero vueltiao con la bandera de Colombia, 23 vueltas',
+            nombre: 'Camisa rosada de lino',
             precio: 250000,
             imagen: 'Assets/img/img1.png',
             categoria: 'camisas'
         },
         {
             id: 2,
-            nombre: 'Sombrero vueltiao-machiembriao',
+            nombre: 'Camisa blanca de lino',
             precio: 150000,
             imagen: 'Assets/img/img3.png',
             categoria: 'camisas'
         },
         {
             id: 3,
-            nombre: 'Sombrero vueltiao colombiano 15 vueltas tricolor',
+            nombre: 'Camisa amarilla de Lino',
             precio: 250000,
             imagen: 'Assets/img/img4.png',
             categoria: 'camisas'
         },
         {
             id: 4,
-            nombre: 'Mochila wayuu azul 6',
+            nombre: 'Camisa negra de tela',
             precio: 120000,
             imagen: 'Assets/img/img5.png',
             categoria: 'camisas'
         },
         {
             id: 5,
-            nombre: 'Bolso en fique',
+            nombre: 'Camisa morada de tela',
             precio: 120000,
             imagen: 'Assets/img/img6.png',
             categoria: 'camisas'
         },
         {
             id: 6,
-            nombre: 'Hamaca',
+            nombre: 'Camisa blanca de tela',
             precio: 120000,
             imagen: 'Assets/img/img8.png',
             categoria: 'camisas'
